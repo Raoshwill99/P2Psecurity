@@ -151,4 +151,4 @@ The contract functions use error handling to ensure that invalid operations are 
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License.
