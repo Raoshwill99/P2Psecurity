@@ -3,6 +3,7 @@
 ;; summary: A secure e-commerce smart contract for product listings, orders, and escrow.
 ;; description: This Clarity contract allows users to add products, place orders, confirm deliveries, and release funds securely within an e-commerce ecosystem.
 
+
 (define-map product-names u256 (string-ascii 256))
 (define-map product-prices u256 u128)
 (define-map product-quantities u256 u256)
